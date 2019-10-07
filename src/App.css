@@ -2,12 +2,22 @@ h1 {
   text-align: center;
 }
 
+.container {
+  margin: 20px auto;
+}
+
 main {
-  width: 90%;
+  width: 300px;
   margin: 0 auto;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
+}
+
+details {
+  margin-top: 30px;
+}
+
+summary {
+  margin-bottom: 15px;
+  cursor: pointer;
 }
 
 th {

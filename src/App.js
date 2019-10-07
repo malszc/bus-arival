@@ -4,7 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div className="container">
       <h1>Czasy odjazdów</h1>
       <main>
         <Stop name="Chrobrego" stopId="1121" />
@@ -16,7 +16,7 @@ function App() {
         <Stop name="Wrzeszcz PKP 03" stopId="114" />
         <Stop name="Wrzeszcz PKP 06" stopId="116" />
       </main>
-    </>
+    </div>
   );
 }
 
