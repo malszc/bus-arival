@@ -21,14 +21,15 @@ const Stop = props => {
   const buses = resp && resp.delay;
 
   return (
-    <div className="stop">
-      <h2>{props.name}</h2>
+    <details className="stop" open>
+      <summary>{props.name}</summary>
       <table>
         <thead>
           <tr>
             <th>Nr.</th>
             <th>Kierunek</th>
-            <th>Przyjazd</th>
+            <th>SCH</th>
+            <th>ETA</th>
           </tr>
         </thead>
         <tbody>
@@ -38,7 +39,7 @@ const Stop = props => {
             })}
         </tbody>
       </table>
-    </div>
+    </details>
   );
 };
 export default Stop;

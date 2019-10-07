@@ -5,6 +5,7 @@ const Bus = props => {
     <tr>
       <th>{props.data.routeId}</th>
       <th>{props.data.headsign}</th>
+      <th>{props.data.theoreticalTime}</th>
       <th>{props.data.estimatedTime}</th>
     </tr>
   );
