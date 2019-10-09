@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bus-arival/static/css/main.cdf6a481.chunk.css",
-    "main.js": "/bus-arival/static/js/main.66087570.chunk.js",
-    "main.js.map": "/bus-arival/static/js/main.66087570.chunk.js.map",
+    "main.css": "/bus-arival/static/css/main.5237e7db.chunk.css",
+    "main.js": "/bus-arival/static/js/main.c47020d8.chunk.js",
+    "main.js.map": "/bus-arival/static/js/main.c47020d8.chunk.js.map",
     "runtime-main.js": "/bus-arival/static/js/runtime-main.3ba54d73.js",
     "runtime-main.js.map": "/bus-arival/static/js/runtime-main.3ba54d73.js.map",
     "static/js/2.1bb81221.chunk.js": "/bus-arival/static/js/2.1bb81221.chunk.js",
     "static/js/2.1bb81221.chunk.js.map": "/bus-arival/static/js/2.1bb81221.chunk.js.map",
     "index.html": "/bus-arival/index.html",
-    "precache-manifest.11c3fd94096eab6280b3d15492f0353d.js": "/bus-arival/precache-manifest.11c3fd94096eab6280b3d15492f0353d.js",
+    "precache-manifest.2299d54382730f85d1ef8f84ef509fcb.js": "/bus-arival/precache-manifest.2299d54382730f85d1ef8f84ef509fcb.js",
     "service-worker.js": "/bus-arival/service-worker.js",
-    "static/css/main.cdf6a481.chunk.css.map": "/bus-arival/static/css/main.cdf6a481.chunk.css.map"
+    "static/css/main.5237e7db.chunk.css.map": "/bus-arival/static/css/main.5237e7db.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3ba54d73.js",
     "static/js/2.1bb81221.chunk.js",
-    "static/css/main.cdf6a481.chunk.css",
-    "static/js/main.66087570.chunk.js"
+    "static/css/main.5237e7db.chunk.css",
+    "static/js/main.c47020d8.chunk.js"
   ]
 }
